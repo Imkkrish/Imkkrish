@@ -66,7 +66,6 @@ interests:
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -176,12 +175,14 @@ Official digital hub for Code Crafters and Programming Club. Facilitating resour
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Imkkrish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imkkrish&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Imkkrish">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Imkkrish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Krish's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Imkkrish&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Imkkrish&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Imkkrish&theme=tokyo-night&hide_border=true" />
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=Imkkrish&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -213,7 +214,7 @@ Official digital hub for Code Crafters and Programming Club. Facilitating resour
 I'm currently open to **new opportunities**, **research collaborations**, and **creative partnerships**.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-imkkrish.web.app-6366F1?style=for-the-badge)](https://imkkrish.web.app/)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download-10B981?style=for-the-badge)](https://imkkrish.web.app/)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-10B981?style=for-the-badge)](https://imkkrish.web.app/resume.pdf)
 
 </div>
 
