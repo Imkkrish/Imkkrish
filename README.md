@@ -46,7 +46,7 @@ interests:
 </td>
 <td width="50%">
 
-### 🏛️ Vice President & Founding Member
+### 🏛️ President & Founding Member | Ex-Vice President 
 **Code Crafters Programming Club @ CUJ**
 
 - Scaled technical literacy for **35+ students** through Git workshops
