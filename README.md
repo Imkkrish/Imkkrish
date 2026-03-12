@@ -6,6 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imkkrish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imkkrish/)
 [![Email](https://img.shields.io/badge/Email-imkkrish05%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imkkrish05@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Imkkrish&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=ML+Researcher+%7C+Full-Stack+Developer;B.Tech+%2B+M.Tech+CSE+%40+CUJ;Building+AI-Powered+Solutions;Open+Source+Enthusiast" alt="Typing SVG" />
 
 </div>
