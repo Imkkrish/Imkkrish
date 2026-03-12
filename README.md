@@ -17,7 +17,7 @@
 ```yaml
 name: Krish Kumar
 location: Central University of Jharkhand, India
-education: Integrated B.Tech + M.Tech in CSE (CGPA: 8.11)
+education: Integrated B.Tech + M.Tech in CSE (CGPA: 8.2)
 current_focus:
   - Machine Learning & Computer Vision
   - Full-Stack Development (MERN)
